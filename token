@@ -1,1 +1,12 @@
 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
+
+git init
+git status
+git add .
+git status
+git commit -m "First commit"
+git branch -M main
+git remote add origin http://
+git push -u origin main
+
+
